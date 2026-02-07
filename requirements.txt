@@ -1,0 +1,2 @@
+# Requires: proto-suspension
+# (Not available on PyPI)
